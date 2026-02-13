@@ -1,3 +1,28 @@
 {
-    "agents": []
+    "agents": [
+        {
+            "enabled": true,
+            "minPrice": null,
+            "maxPrice": null,
+            "totalFound": 172,
+            "lastScanTime": 1770979933990,
+            "createdAt": 1770977024648,
+            "marketplace": "kleinanzeigen",
+            "id": "1770977024648",
+            "name": "Iphone",
+            "query": "Iphone 15"
+        },
+        {
+            "enabled": true,
+            "minPrice": null,
+            "maxPrice": null,
+            "totalFound": 100,
+            "lastScanTime": 1770979935405,
+            "createdAt": 1770979164529,
+            "marketplace": "vinted",
+            "id": "1770979164529",
+            "name": "Nike Schuhe",
+            "query": "Vintage Tee"
+        }
+    ]
 }
